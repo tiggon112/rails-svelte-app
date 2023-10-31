@@ -9,7 +9,7 @@
     "boilerplate"
   ],
   "dependencies": {
-    "@rails/actiontext": "^6.0.5",
+    "@rails/actiontext": "latest",
     "@rails/activestorage": "^6.0.5"
   },
   "devDependencies": {
