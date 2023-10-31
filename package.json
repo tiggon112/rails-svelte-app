@@ -8,7 +8,6 @@
     "experiment",
     "boilerplate"
   ],
-  // This is the dependenc
   "dependencies": {
     "@rails/actiontext": "latest",
     "@rails/activestorage": "latest"
