@@ -8,9 +8,10 @@
     "experiment",
     "boilerplate"
   ],
+  
   "dependencies": {
-    "@rails/actiontext": "^6.0.5",
-    "@rails/activestorage": "^6.0.5"
+    "@rails/actiontext": "latest",
+    "@rails/activestorage": "latest"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
